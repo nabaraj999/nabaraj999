@@ -2,6 +2,10 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabaraj999&label=Profile%20views&color=0e75b6&style=flat" alt="nabaraj999" />
 </p>
 
@@ -55,14 +59,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabaraj999&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabaraj999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabaraj999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
