@@ -2,7 +2,8 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding gif"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="coding gif"/>
+
 
 
 </p>
