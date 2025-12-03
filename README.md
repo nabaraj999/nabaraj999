@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎓 BCA Student (6th Semester), Jana Bhawana Campus  
 - 💼 Freelance full-stack developer & designer  
-- 🧠 2+ years in Web Development, 1+ year in Graphic Design  
+- 🧠 2+ years in Web Development
 - 🚀 I build fast, responsive websites & business-focused web apps  
 - 🤝 Delivered 10+ projects for companies, cooperatives & startups  
 
