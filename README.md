@@ -24,7 +24,6 @@
 - 💻 All of my projects are available at **[nabrajacharya.com.np](https://nabrajacharya.com.np)**
 - 💬 Ask me about **Laravel, PHP, and JavaScript**
 - 📫 Reach me at **nabarajacharya999@gmail.com**
-- ⚡ **Fun fact:** I turned my first college project (*BOOKNEST*) into a fully functional live platform for buying & selling second-hand books! 📚🔥
 
 ---
 
