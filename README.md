@@ -23,7 +23,7 @@
 - 🌱 I’m currently pursuing **Bachelor in Computer Application (6th Semester)**
 - 💻 All of my projects are available at **[nabrajacharya.com.np](https://nabrajacharya.com.np)**
 - 💬 Ask me about **Laravel, PHP, and JavaScript**
-- 📫 Reach me at **nabarajacharya999@gmail.com**
+- 📫 Reach me at **info@nabrajacharya.com.np**
 
 ---
 
