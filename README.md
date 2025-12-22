@@ -18,6 +18,11 @@
 
 ---
 
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor in Computer Application (6th Semester)
@@ -69,10 +74,6 @@
 
 ---
 
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ## 🚀 Projects
