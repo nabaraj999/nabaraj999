@@ -20,6 +20,15 @@
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 December 2025 - To: 21 December 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 👨‍💻 About Me
