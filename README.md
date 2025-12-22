@@ -54,10 +54,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabaraj999&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj999&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
@@ -75,8 +71,8 @@
 
 ## 📊 This Week I Spent My Time On
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 ---
 
