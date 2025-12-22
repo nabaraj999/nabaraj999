@@ -2,22 +2,29 @@
 <h3 align="center">Full-Stack Web Developer | BCA (6th Semester) | Nepal</h3>
 
 <p align="center">
-<a href="https://nabrajacharya.com.np">Portfolio</a> •
-<a href="mailto:info@nabrajacharya.com.np">Email</a> •
-<a href="https://fb.com/technabu">Facebook</a> •
-<a href="https://instagram.com/nabaraj567">Instagram</a>
+  <a href="https://nabrajacharya.com.np">🌐 Portfolio</a> •
+  <a href="mailto:info@nabrajacharya.com.np">📧 Email</a>
+</p>
+
+<p align="center">
+  <a href="https://fb.com/technabu">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" />
+  </a>
+  <a href="https://instagram.com/nabaraj567">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
+  </a>
 </p>
 
 ---
 
 ## Professional Summary
 
-I am a full-stack web developer focused on building **functional, database-driven systems** using Laravel and modern frontend tools.  
-My work prioritizes **clean architecture, practical use-cases, and scalability** over visual noise.
+I am a web developer focused on building **practical, database-driven web applications**.  
+My core strength lies in **HTML, CSS, Laravel, and PHP**, with emphasis on clean structure, maintainability, and real-world usability.
 
 ---
 
-## GitHub Performance Overview
+## GitHub Performance
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabaraj999&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -29,7 +36,7 @@ My work prioritizes **clean architecture, practical use-cases, and scalability**
 
 ---
 
-## Contribution Graph
+## Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabaraj999&theme=tokyo-night&hide_border=true" />
@@ -37,7 +44,7 @@ My work prioritizes **clean architecture, practical use-cases, and scalability**
 
 ---
 
-## GitHub Statistics
+## GitHub Stats & Streak
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,44 +57,46 @@ My work prioritizes **clean architecture, practical use-cases, and scalability**
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-**Backend**
-- PHP, Laravel
-- MySQL
-- REST APIs, Authentication, MVC
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+</p>
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- Tailwind CSS, Bootstrap
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+</p>
 
-**Tools**
-- Git & GitHub
-- Figma (UI planning)
-- Linux CLI (basic)
+### Tools & Design
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</p>
 
 ---
 
-## Selected Projects
+## Projects
 
-- **EventHub** – Digital event management & QR-based ticketing system  
+- **EventHub** – Event management & QR ticketing system  
 - **BeemaSathi** – Insurance comparison & policy request platform  
-- **E-commerce & CMS systems** with role-based access
+- **CMS & E-commerce systems** with authentication & admin panels  
 
-Project details available at  
-👉 **https://nabrajacharya.com.np**
-
----
-
-## Current Focus
-
-- Writing cleaner Laravel architecture
-- Improving database design
-- Building production-ready academic projects
-- Strengthening documentation & communication
+👉 More at **https://nabrajacharya.com.np**
 
 ---
 
-## Principle
+## Focus Areas
 
-> “Visibility matters, but consistency matters more.”
+- Advanced Laravel architecture  
+- Better frontend structure (HTML/CSS)  
+- Production-ready academic projects  
+
+---
+
+> “Consistency is the real portfolio.”
