@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://nabrajacharya.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:info@nabrajacharya.com.np">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://fb.com/technabu">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/nabaraj567">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -22,8 +22,8 @@
 
 - 🎓 Bachelor in Computer Application (6th Semester)
 - 💻 Full-stack web developer focused on **HTML, CSS, PHP & Laravel**
-- 🧠 Prefer **clean logic, structured backend & real projects**
-- 🌍 From Nepal, building production-style systems
+- 🧠 Strong interest in **clean backend logic & real-world systems**
+- 🌱 Consistently improving through hands-on projects
 
 ---
 
@@ -65,14 +65,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabaraj999&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -81,24 +73,27 @@
 
 ---
 
-## 🚀 Projects
+## 📊 This Week I Spent My Time On
 
-- **EventHub** – Event management & QR ticketing platform  
-- **BeemaSathi** – Insurance comparison & policy request system  
-- **CMS / E-commerce systems** with admin panels  
-
-👉 More details at **https://nabrajacharya.com.np**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Projects
 
-- Advanced Laravel architecture
-- HTML/CSS performance & structure
-- Production-level academic projects
+- **EventHub** – Event management & QR ticketing system  
+- **BeemaSathi** – Insurance comparison & policy request platform  
+- **CMS & E-commerce systems** with admin dashboards  
+
+👉 More details at **https://nabrajacharya.com.np**
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabaraj999&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+> *“Consistency builds credibility.”*
