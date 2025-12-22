@@ -1,77 +1,93 @@
-<h1 align="center">👋 Nabaraj Acharya</h1>
-<h3 align="center">Full-Stack Web Developer | BCA 6th Sem | Nepal 🇳🇵</h3>
+<h1 align="center">Nabaraj Acharya</h1>
+<h3 align="center">Full-Stack Web Developer | BCA (6th Semester) | Nepal</h3>
 
 <p align="center">
-I build real-world web applications with clean backend logic, practical UI,  
-and a focus on systems that actually solve problems.
-</p>
-
-<p align="center">
-  <a href="https://nabrajacharya.com.np" target="_blank"><strong>🌐 Portfolio</strong></a> •
-  <a href="mailto:info@nabrajacharya.com.np"><strong>📩 Email</strong></a> •
-  <a href="https://fb.com/technabu" target="_blank"><strong>Facebook</strong></a> •
-  <a href="https://instagram.com/nabaraj567" target="_blank"><strong>Instagram</strong></a>
+<a href="https://nabrajacharya.com.np">Portfolio</a> •
+<a href="mailto:info@nabrajacharya.com.np">Email</a> •
+<a href="https://fb.com/technabu">Facebook</a> •
+<a href="https://instagram.com/nabaraj567">Instagram</a>
 </p>
 
 ---
 
-## 🚀 What I Actually Do
+## Professional Summary
 
-- ⚙️ Build **full-stack web systems** using Laravel + PHP + JS  
-- 🧠 Design **database-driven applications** with real business logic  
-- 🏗️ Work on **academic + production-style projects**, not just demos  
-- 🎯 Focused on **practical skills**, not tutorial hell  
-
-I care more about **working systems** than flashy buzzwords.
+I am a full-stack web developer focused on building **functional, database-driven systems** using Laravel and modern frontend tools.  
+My work prioritizes **clean architecture, practical use-cases, and scalability** over visual noise.
 
 ---
 
-## 🧩 Featured Work
+## GitHub Performance Overview
 
-- **EventHub** – Digital event management & ticketing platform  
-- **BeemaSathi** – Insurance comparison & policy request system  
-- **E-commerce & CMS projects** with authentication, roles, and payments  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabaraj999&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-👉 Details & screenshots on **[nabrajacharya.com.np](https://nabrajacharya.com.np)**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nabaraj999&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🛠 Tech Stack (What I Really Use)
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabaraj999&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nabaraj999&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj999&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Technical Stack
 
 **Backend**
-- PHP, Laravel, MySQL  
-- REST APIs, Auth, CRUD, MVC
+- PHP, Laravel
+- MySQL
+- REST APIs, Authentication, MVC
 
 **Frontend**
-- HTML, CSS, JavaScript  
+- HTML5, CSS3, JavaScript
 - Tailwind CSS, Bootstrap
 
 **Tools**
-- Git & GitHub  
-- Figma (UI planning)  
-- Basic Linux / CLI usage
+- Git & GitHub
+- Figma (UI planning)
+- Linux CLI (basic)
 
 ---
 
-## 📈 GitHub Activity
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabaraj999&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabaraj999&theme=tokyonight" height="165"/>
-</p>
+- **EventHub** – Digital event management & QR-based ticketing system  
+- **BeemaSathi** – Insurance comparison & policy request platform  
+- **E-commerce & CMS systems** with role-based access
 
----
-
-## 🧠 Currently Improving
-
-- Advanced Laravel (services, clean architecture)
-- Scalable database design
-- Real-world project structure
-- Communication & documentation
+Project details available at  
+👉 **https://nabrajacharya.com.np**
 
 ---
 
-## 🧠 Philosophy
+## Current Focus
 
-> *“Being a student is temporary.  
-> Building real skills is permanent.”*
+- Writing cleaner Laravel architecture
+- Improving database design
+- Building production-ready academic projects
+- Strengthening documentation & communication
+
+---
+
+## Principle
+
+> “Visibility matters, but consistency matters more.”
