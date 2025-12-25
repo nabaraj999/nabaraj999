@@ -78,14 +78,6 @@ JSON             1 min           ░░░░░░░░░░░░░░░�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabaraj999&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 
 
 ## 🚀 Projects
