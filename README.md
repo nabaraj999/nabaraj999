@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 24 December 2025
+From: 21 December 2025 - To: 25 December 2025
 
-Total Time: 6 hrs 4 mins
+Total Time: 10 hrs 1 min
 
-Blade Template   3 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.83 %
-PHP              2 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   39.16 %
-Java             32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Blade Template   5 hrs 23 mins   █████████████▒░░░░░░░░░░░   53.71 %
+PHP              3 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+Java             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
