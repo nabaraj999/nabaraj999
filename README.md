@@ -72,11 +72,6 @@ JSON             6 mins          ▒░░░░░░░░░░░░░░�
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj999&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-</p>
-
----
 
 
 
