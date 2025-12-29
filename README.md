@@ -67,11 +67,6 @@ JSON             6 mins          ▒░░░░░░░░░░░░░░�
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-
 
 
 
