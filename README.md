@@ -38,7 +38,7 @@ Other            9 mins          ▒░░░░░░░░░░░░░░�
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor in Computer Application (6th Semester)
-- 💻 Full-stack web developer focused on **HTML, CSS, PHP & Laravel**
+- 💻 Full-stack web developer focused on **HTML, CSS, JS ,PHP & Laravel**
 - 🧠 Strong interest in **clean backend logic & real-world systems**
 - 🌱 Consistently improving through hands-on projects
 
