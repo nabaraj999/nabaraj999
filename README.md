@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 This Week I Spent My Time On
+## 📊 I Spent My Time On
 <!--START_SECTION:waka-->
 
 ```txt
