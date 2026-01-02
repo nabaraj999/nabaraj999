@@ -73,7 +73,6 @@ HTML             1 hr            █▒░░░░░░░░░░░░░�
 ## 🚀 Projects
 
 - **EventHub** – Event management & QR ticketing system  
-- **BeemaSathi** – Insurance comparison & policy request platform  
 - **CMS & E-commerce systems** with admin dashboards  
 
 👉 More details at **https://nabrajacharya.com.np**
