@@ -72,9 +72,6 @@ HTML             1 hr            █▒░░░░░░░░░░░░░�
 
 ## 🚀 Projects
 
-- **EventHub** – Event management & QR ticketing system  
-- **CMS & E-commerce systems** with admin dashboards  
-
 👉 More details at **https://nabrajacharya.com.np**
 
 ---
