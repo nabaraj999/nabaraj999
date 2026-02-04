@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 02 February 2026
+From: 21 December 2025 - To: 03 February 2026
 
-Total Time: 26 hrs 4 mins
+Total Time: 33 hrs 11 mins
 
-Blade Template   7 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.63 %
-PHP              7 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.45 %
-Java             6 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
-XML              2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-HTML             1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Java             10 hrs 28 mins  ███████▓░░░░░░░░░░░░░░░░░   31.32 %
+Blade Template   7 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+PHP              7 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+XML              4 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+HTML             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
