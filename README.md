@@ -22,22 +22,6 @@
 
 ---
 
-## 📊 I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 December 2025 - To: 18 February 2026
-
-Total Time: 48 hrs 26 mins
-
-PHP              14 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-Java             13 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-Blade Template   10 hrs 55 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-XML              6 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-HTML             1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 👨‍💻 About Me
 
