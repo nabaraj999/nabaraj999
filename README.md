@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabaraj Acharya</h1>
-<h3 align="center">Full-Stack Web Developer | BCA 6th Semester | Nepal 🇳🇵</h3>
+<h3 align="center">Full-Stack Web Developer | BCA 7th Semester | Nepal 🇳🇵</h3>
 
 <p align="center">
   <a href="https://nabrajacharya.com.np">
