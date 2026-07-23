@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor in Computer Application (6th Semester)
+- 🎓 Bachelor in Computer Application (7th Semester)
 - 💻 Full-stack web developer focused on **HTML, CSS, JS ,PHP & Laravel**
 - 🧠 Strong interest in **clean backend logic & real-world systems**
 - 🌱 Consistently improving through hands-on projects
